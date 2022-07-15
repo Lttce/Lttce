@@ -1,10 +1,10 @@
 ### Hi there , I'm kawa 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api?username=Lttce&theme=react" />
+  <img align="center" width="47.86%" src="https://github-readme-stats.vercel.app/api?username=Lttce&theme=react" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lttce&layout=compact&theme=react" />
+  <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lttce&layout=compact&theme=react" />
 </a>
 
 <!--
