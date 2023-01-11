@@ -13,3 +13,9 @@
 ### 💻 Favorite Tech:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+
+![](http://github-profile-summary-cards-gmbv2ohs3.vercel.app/api/cards/profile-details?username=Lttce&theme=nord_dark)
+
+![](http://github-profile-summary-cards-gmbv2ohs3.vercel.app/api/cards/most-commit-language?username=Lttce&theme=nord_dark)
+
+![](http://github-profile-summary-cards-gmbv2ohs3.vercel.app/api/cards/repos-per-language?username=Lttce&theme=nord_dark)
