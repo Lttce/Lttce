@@ -1,4 +1,4 @@
-### Hi there , I'm kawa 👋
+### Hi there , I'm Lttce 👋
 
 <img width="60.5%" src="http://github-profile-summary-cards-gmbv2ohs3.vercel.app/api/cards/profile-details?username=Lttce&theme=nord_dark" />
 
